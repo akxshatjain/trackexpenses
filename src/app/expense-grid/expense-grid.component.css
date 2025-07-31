@@ -1,0 +1,33 @@
+.card-actions{
+    display: flex;
+    justify-content: flex-end;
+}
+
+.mat-paginator{
+    width: 100%;
+    margin-bottom: 50px;
+}
+
+.edit-btn{
+    background-color:blue ;
+    margin-right: 8px;
+}
+
+.delete-btn{
+   background-color: lightcoral !important; 
+   color:#fff;
+}
+
+.mat-mdc-header-row{
+    background-color: #5f5f5f;
+    color: #fff;
+}
+
+
+.card-title{
+    padding-bottom: 20px;
+}
+table th{
+    background-color: rgb(94, 95, 95);
+    color: white;
+}

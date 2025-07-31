@@ -1,0 +1,88 @@
+{
+  "expenses": [
+    {
+      "title": "Auto 1011",
+      "category": "Entertainment",
+      "amount": "5004",
+      "date": "04-07-2025",
+      "id": "2"
+    },
+    {
+      "id": "7",
+      "title": "Auto 1",
+      "category": "Auto",
+      "amount": 500,
+      "date": "02-05-2025"
+    },
+    {
+      "id": "11",
+      "title": "Auto 1",
+      "category": "Auto",
+      "amount": 500,
+      "date": "02-05-2025"
+    },
+    {
+      "id": "12",
+      "title": "Eating 1",
+      "category": "Entertainment",
+      "amount": 450,
+      "date": "02-05-2025"
+    },
+    {
+      "id": "13",
+      "title": "Dating 1",
+      "category": "Dating",
+      "amount": 1000,
+      "date": "02-05-2025"
+    },
+    {
+      "id": "14",
+      "title": "hello",
+      "category": "Entertainment",
+      "amount": 44,
+      "date": "08-07-2025"
+    },
+    {
+      "id": "15",
+      "title": "kl",
+      "category": "Travel",
+      "amount": 77,
+      "date": "29-07-2025"
+    },
+    {
+      "id": "16",
+      "title": "ui",
+      "category": "Travel",
+      "amount": 66,
+      "date": "24-07-2025"
+    },
+    {
+      "id": "17",
+      "title": "aks",
+      "category": "Travel",
+      "amount": 45,
+      "date": "25-07-2025"
+    },
+    {
+      "id": "18",
+      "title": "nh",
+      "category": "Travel",
+      "amount": 45,
+      "date": "17-07-2025"
+    },
+    {
+      "title": "jj",
+      "category": "Travel",
+      "amount": 45,
+      "date": "2025-07-25T18:30:00.000Z",
+      "id": "19"
+    },
+    {
+      "id": 1753942650152,
+      "title": "aa",
+      "category": "Travel",
+      "amount": 33,
+      "date": "2025-07-25T18:30:00.000Z"
+    }
+  ]
+}
